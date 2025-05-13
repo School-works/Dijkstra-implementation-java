@@ -1,0 +1,8 @@
+Implementare l'algoritmo di Dijkstra in Java utilizzando delle apposite classi.
+I router e i collegamenti tra i router sono rappresentati attraverso un grafo dove i nodi del grafo sono i router e gli archi tra i nodi sono i collegamenti.
+
+Il grafo è rappresentato come una matrice di pesi (o in modo facoltativo con una lista di adiacenza) dove il peso 0 indica che non c'è nessun collegamento tra i vertici.
+Deve essere scelto un nodo di partenza e il risultato deve essere il costo per arrivare a ciascun altro nodo ed anche la sequenza per arrivare a tale nodo.
+
+Inizialmente fare la prova con una matrice già popolata.
+Successivamente, fare in modo che l'utente debba inserire i vertici ed i pesi.
